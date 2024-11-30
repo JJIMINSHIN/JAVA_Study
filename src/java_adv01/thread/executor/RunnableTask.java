@@ -3,7 +3,6 @@ package java_adv01.thread.executor;
 import static java_adv01.util.MyLogger.log;
 import static java_adv01.util.ThreadUtils.sleep;
 
-
 public class RunnableTask implements Runnable{
 	
 	private final String name;
