@@ -1,4 +1,4 @@
-package java_bsc.refer;
+package java_bsc.ref;
 
 public class VarChange2 {
 	public static void main(String[] args) {
