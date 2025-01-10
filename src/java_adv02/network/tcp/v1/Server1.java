@@ -19,7 +19,7 @@ import java.net.Socket;
 15:10:23.199 [     main] 연결 종료: Socket[addr=/127.0.0.1,port=56568,localport=12345] 
  * 
  */
-public class Service1 {
+public class Server1 {
 
 	private static final int PORT = 12345;
 

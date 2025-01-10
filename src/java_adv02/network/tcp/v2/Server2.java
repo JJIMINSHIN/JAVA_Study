@@ -8,7 +8,7 @@ import java.io.IOException;
 import java.net.ServerSocket;
 import java.net.Socket;
 
-public class ServiceV2 {
+public class Server2 {
 
 	private static final int PORT = 12345;
 
